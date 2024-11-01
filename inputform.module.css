@@ -1,0 +1,46 @@
+input{
+    margin-top: 200px;
+    margin-left: 400px;
+    width: 350px;
+    padding-left: 150px;
+    height: 40px;
+    border: 2px solid pink;
+    border-radius: 2%;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    height: 15px;
+    width: 70px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+    background-color: dodgerblue;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.search{
+    margin-top: 50px;
+    margin-left: 500px;
+    position: relative;
+}
+
+.hint{
+    margin-top: 0;
+    margin-left: 400px;
+    width: 505px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    opacity: 100%;
+    list-style-type: none;
+    padding: 0;
+}
+
+.hint :hover{
+    background-color: rgb(68, 66, 66);
+    cursor: pointer;
+}

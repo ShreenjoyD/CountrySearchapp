@@ -1,0 +1,492 @@
+[
+  {
+      "country": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "official_language": "English",
+      "currency": "USD"
+  },
+  {
+      "country": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "official_language": "English, French",
+      "currency": "CAD"
+  },
+  {
+      "country": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "official_language": "Portuguese",
+      "currency": "BRL"
+  },
+  {
+      "country": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "official_language": "Spanish",
+      "currency": "MXN"
+  },
+  {
+      "country": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195774,
+      "official_language": "Spanish",
+      "currency": "ARS"
+  },
+  {
+      "country": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "official_language": "German",
+      "currency": "EUR"
+  },
+  {
+      "country": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "official_language": "French",
+      "currency": "EUR"
+  },
+  {
+      "country": "Italy",
+      "capital": "Rome",
+      "population": 60461826,
+      "official_language": "Italian",
+      "currency": "EUR"
+  },
+  {
+      "country": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "official_language": "English",
+      "currency": "GBP"
+  },
+  {
+      "country": "Spain",
+      "capital": "Madrid",
+      "population": 46754778,
+      "official_language": "Spanish",
+      "currency": "EUR"
+  },
+  {
+      "country": "Russia",
+      "capital": "Moscow",
+      "population": 145934462,
+      "official_language": "Russian",
+      "currency": "RUB"
+  },
+  {
+      "country": "China",
+      "capital": "Beijing",
+      "population": 1439323776,
+      "official_language": "Mandarin",
+      "currency": "CNY"
+  },
+  {
+      "country": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "official_language": "Hindi, English",
+      "currency": "INR"
+  },
+  {
+      "country": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "official_language": "Japanese",
+      "currency": "JPY"
+  },
+  {
+      "country": "South Korea",
+      "capital": "Seoul",
+      "population": 51269185,
+      "official_language": "Korean",
+      "currency": "KRW"
+  },
+  {
+      "country": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "official_language": "English",
+      "currency": "AUD"
+  },
+  {
+      "country": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "official_language": "Zulu, Xhosa, Afrikaans, English",
+      "currency": "ZAR"
+  },
+  {
+      "country": "Egypt",
+      "capital": "Cairo",
+      "population": 102334404,
+      "official_language": "Arabic",
+      "currency": "EGP"
+  },
+  {
+      "country": "Turkey",
+      "capital": "Ankara",
+      "population": 84339067,
+      "official_language": "Turkish",
+      "currency": "TRY"
+  },
+  {
+      "country": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 34813871,
+      "official_language": "Arabic",
+      "currency": "SAR"
+  },
+  {
+      "country": "Nigeria",
+      "capital": "Abuja",
+      "population": 206139589,
+      "official_language": "English",
+      "currency": "NGN"
+  },
+  {
+      "country": "Kenya",
+      "capital": "Nairobi",
+      "population": 53771296,
+      "official_language": "English, Swahili",
+      "currency": "KES"
+  },
+  {
+      "country": "Ethiopia",
+      "capital": "Addis Ababa",
+      "population": 114963588,
+      "official_language": "Amharic",
+      "currency": "ETB"
+  },
+  {
+      "country": "Vietnam",
+      "capital": "Hanoi",
+      "population": 97338579,
+      "official_language": "Vietnamese",
+      "currency": "VND"
+  },
+  {
+      "country": "Thailand",
+      "capital": "Bangkok",
+      "population": 69799978,
+      "official_language": "Thai",
+      "currency": "THB"
+  },
+  {
+      "country": "Philippines",
+      "capital": "Manila",
+      "population": 109581078,
+      "official_language": "Filipino, English",
+      "currency": "PHP"
+  },
+  {
+      "country": "Indonesia",
+      "capital": "Jakarta",
+      "population": 273523615,
+      "official_language": "Indonesian",
+      "currency": "IDR"
+  },
+  {
+      "country": "Pakistan",
+      "capital": "Islamabad",
+      "population": 220892340,
+      "official_language": "Urdu, English",
+      "currency": "PKR"
+  },
+  {
+      "country": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 164689383,
+      "official_language": "Bengali",
+      "currency": "BDT"
+  },
+  {
+      "country": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "population": 32365999,
+      "official_language": "Malay",
+      "currency": "MYR"
+  },
+  {
+      "country": "Iran",
+      "capital": "Tehran",
+      "population": 83992949,
+      "official_language": "Persian",
+      "currency": "IRR"
+  },
+  {
+      "country": "Iraq",
+      "capital": "Baghdad",
+      "population": 40222493,
+      "official_language": "Arabic, Kurdish",
+      "currency": "IQD"
+  },
+  {
+      "country": "Israel",
+      "capital": "Jerusalem",
+      "population": 8655535,
+      "official_language": "Hebrew",
+      "currency": "ILS"
+  },
+  {
+      "country": "Poland",
+      "capital": "Warsaw",
+      "population": 38386000,
+      "official_language": "Polish",
+      "currency": "PLN"
+  },
+  {
+      "country": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 17134872,
+      "official_language": "Dutch",
+      "currency": "EUR"
+  },
+  {
+      "country": "Belgium",
+      "capital": "Brussels",
+      "population": 11589623,
+      "official_language": "Dutch, French, German",
+      "currency": "EUR"
+  },
+  {
+      "country": "Sweden",
+      "capital": "Stockholm",
+      "population": 10099265,
+      "official_language": "Swedish",
+      "currency": "SEK"
+  },
+  {
+      "country": "Norway",
+      "capital": "Oslo",
+      "population": 5421241,
+      "official_language": "Norwegian",
+      "currency": "NOK"
+  },
+  {
+      "country": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5831404,
+      "official_language": "Danish",
+      "currency": "DKK"
+  },
+  {
+      "country": "Finland",
+      "capital": "Helsinki",
+      "population": 5540720,
+      "official_language": "Finnish, Swedish",
+      "currency": "EUR"
+  },
+  {
+      "country": "Switzerland",
+      "capital": "Bern",
+      "population": 8654622,
+      "official_language": "German, French, Italian, Romansh",
+      "currency": "CHF"
+  },
+  {
+      "country": "Austria",
+      "capital": "Vienna",
+      "population": 9006400,
+      "official_language": "German",
+      "currency": "EUR"
+  },
+  {
+      "country": "Greece",
+      "capital": "Athens",
+      "population": 10423054,
+      "official_language": "Greek",
+      "currency": "EUR"
+  },
+  {
+      "country": "Portugal",
+      "capital": "Lisbon",
+      "population": 10196709,
+      "official_language": "Portuguese",
+      "currency": "EUR"
+  },
+  {
+      "country": "New Zealand",
+      "capital": "Wellington",
+      "population": 4822233,
+      "official_language": "English, Māori",
+      "currency": "NZD"
+  },
+  {
+      "country": "Ireland",
+      "capital": "Dublin",
+      "population": 4937786,
+      "official_language": "Irish, English",
+      "currency": "EUR"
+  },
+  {
+      "country": "Hungary",
+      "capital": "Budapest",
+      "population": 9660351,
+      "official_language": "Hungarian",
+      "currency": "HUF"
+  },
+  {
+      "country": "Czech Republic",
+      "capital": "Prague",
+      "population": 10708981,
+      "official_language": "Czech",
+      "currency": "CZK"
+  },
+  {
+      "country": "Romania",
+      "capital": "Bucharest",
+      "population": 19237691,
+      "official_language": "Romanian",
+      "currency": "RON"
+  },
+  {
+      "country": "Ukraine",
+      "capital": "Kyiv",
+      "population": 41723998,
+      "official_language": "Ukrainian",
+      "currency": "UAH"
+  },
+  {
+      "country": "Kazakhstan",
+      "capital": "Nur-Sultan",
+      "population": 18776707,
+      "official_language": "Kazakh, Russian",
+      "currency": "KZT"
+  },
+  {
+      "country": "Chile",
+      "capital": "Santiago",
+      "population": 19116209,
+      "official_language": "Spanish",
+      "currency": "CLP"
+  },
+  {
+      "country": "Peru",
+      "capital": "Lima",
+      "population": 32971854,
+      "official_language": "Spanish",
+      "currency": "PEN"
+  },
+  {
+      "country": "Colombia",
+      "capital": "Bogotá",
+      "population": 50882891,
+      "official_language": "Spanish",
+      "currency": "COP"
+  },
+  {
+      "country": "Venezuela",
+      "capital": "Caracas",
+      "population": 28435943,
+      "official_language": "Spanish",
+      "currency": "VES"
+  },
+  {
+      "country": "Ecuador",
+      "capital": "Quito",
+      "population": 17643060,
+      "official_language": "Spanish",
+      "currency": "USD"
+  },
+  {
+      "country": "Bolivia",
+      "capital": "Sucre",
+      "population": 11673021,
+      "official_language": "Spanish, Quechua, Aymara",
+      "currency": "BOB"
+  },
+  {
+      "country": "Paraguay",
+      "capital": "Asunción",
+      "population": 7132538,
+      "official_language": "Spanish, Guarani",
+      "currency": "PYG"
+  },
+  {
+      "country": "Uruguay",
+      "capital": "Montevideo",
+      "population": 3473730,
+      "official_language": "Spanish",
+      "currency": "UYU"
+  },
+  {
+      "country": "Ghana",
+      "capital": "Accra",
+      "population": 31072940,
+      "official_language": "English",
+      "currency": "GHS"
+  },
+  {
+      "country": "Ivory Coast",
+      "capital": "Yamoussoukro",
+      "population": 26378274,
+      "official_language": "French",
+      "currency": "XOF"
+  },
+  {
+      "country": "Morocco",
+      "capital": "Rabat",
+      "population": 36910560,
+      "official_language": "Arabic, Berber",
+      "currency": "MAD"
+  },
+  {
+      "country": "Algeria",
+      "capital": "Algiers",
+      "population": 43851044,
+      "official_language": "Arabic, Berber",
+      "currency": "DZD"
+  },
+  {
+      "country": "Angola",
+      "capital": "Luanda",
+      "population": 32866272,
+      "official_language": "Portuguese",
+      "currency": "AOA"
+  },
+  {
+      "country": "Sudan",
+      "capital": "Khartoum",
+      "population": 43849260,
+      "official_language": "Arabic, English",
+      "currency": "SDG"
+  },
+  {
+      "country": "Tanzania",
+      "capital": "Dodoma",
+      "population": 59734218,
+      "official_language": "Swahili, English",
+      "currency": "TZS"
+  },
+  {
+      "country": "Uganda",
+      "capital": "Kampala",
+      "population": 45741007,
+      "official_language": "English, Swahili",
+      "currency": "UGX"
+  },
+  {
+      "country": "Zambia",
+      "capital": "Lusaka",
+      "population": 18383955,
+      "official_language": "English",
+      "currency": "ZMW"
+  },
+  {
+      "country": "Zimbabwe",
+      "capital": "Harare",
+      "population": 14862924,
+      "official_language": "English, Shona, Sindebele",
+      "currency": "ZWL"
+  },
+  {
+      "country": "Myanmar",
+      "capital": "Naypyidaw",
+      "population": 54409800,
+      "official_language": "Burmese",
+      "currency": "MMK"
+  }
+]
